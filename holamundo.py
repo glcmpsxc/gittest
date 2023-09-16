@@ -1,1 +1,4 @@
 print("Holiiii")
+
+print("Gala!")
+
